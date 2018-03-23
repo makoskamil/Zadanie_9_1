@@ -1,6 +1,3 @@
-
-// zacznijmy pisać nowy kod:
-
 function getTriangleArea(a, h) 
 {
     if (!(a>0) || !(h>0)) 
